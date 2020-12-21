@@ -127,7 +127,7 @@
             "href": "yretenai/standard_dragon",
             "color": [
                 "#A60852",
-                "#211259"
+                "#BF0A4C"
             ],
             "colorAdjust": 1.8
         },
@@ -137,8 +137,8 @@
             "description": "Common Utility Library (C#)",
             "href": "yretenai/DragonLib",
             "color": [
-                "#211259",
-                "#2E1A73"
+                "#798BF2",
+                "#5E75F2"
             ],
             "colorAdjust": 1.8
         },
