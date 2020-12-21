@@ -4,14 +4,8 @@
     "description": [
         {
             "tag": "span", 
-            "text": "I'm Naomi, I enjoy breaking games apart and figuring out how they tick. You can read more about me in the "
-        },
-        {
-            "tag": "a",
-            "attributes": { "href": "/about.html" }, 
-            "text": "about page"
-        },
-        {"tag": "span", "text": "." }
+            "text": "I'm Naomi, I enjoy breaking games apart and figuring out how they tick."
+        }
     ],
     "about": {
         "name": "Naomi - Yretenai",
