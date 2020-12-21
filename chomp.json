@@ -45,7 +45,8 @@
                 "#7398aa",
                 "#fbf7d4"
             ],
-            "colorAdjust": 0.7
+            "colorAdjust": 0.7,
+            "isHidden": true
         },
         {
             "name": "HeroesToolkit",
@@ -78,7 +79,8 @@
                 "#EC5D2C",
                 "#cc4846"
             ],
-            "colorAdjust": 1.2
+            "colorAdjust": 1.2,
+            "isHidden": true
         },
         {
             "name": "WOFFington",
@@ -88,7 +90,8 @@
             "color": [
                 "#EA65D8",
                 "#ad2f9c"
-            ]
+            ],
+            "isHidden": true
         },
         {
             "name": "Dragapult",
@@ -99,7 +102,8 @@
                 "#5ccac9",
                 "#356C6C"
             ],
-            "colorAdjust": 2.5
+            "colorAdjust": 2.5,
+            "isHidden": true
         },
         {
             "name": "HFSExtract",
