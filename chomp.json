@@ -121,6 +121,28 @@
             "colorAdjust": 1.8
         },
         {
+            "name": "standard_dragon",
+            "sling": "stdragon",
+            "description": "Common Utility Library (C++)",
+            "href": "yretenai/standard_dragon",
+            "color": [
+                "#A60852",
+                "#211259"
+            ],
+            "colorAdjust": 1.8
+        },
+        {
+            "name": "dragonlib",
+            "sling": "dragonlib",
+            "description": "Common Utility Library (C#)",
+            "href": "yretenai/DragonLib",
+            "color": [
+                "#211259",
+                "#2E1A73"
+            ],
+            "colorAdjust": 1.8
+        },
+        {
             "name": "Experiments",
             "isHeader": true,
             "isHidden": true
