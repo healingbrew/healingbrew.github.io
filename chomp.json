@@ -155,6 +155,19 @@
                 "#00DDFF"
             ],
             "colorAdjust": 1.8
+        },
+        {
+            "name": "yordle",
+            "sling": "yordle",
+            "description": "League of Legends File IO",
+            "href": "yretenai/yordle",
+            "color": [
+                "#EDB852",
+                "#5A3E1E",
+                "#EDB852",
+                "#EDB852"
+            ],
+            "colorAdjust": 1.8
         }
     ]
 }
